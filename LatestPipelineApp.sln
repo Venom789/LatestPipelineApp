@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatestPipelineApp", "LatestPipelineApp\LatestPipelineApp.csproj", "{13253014-CD1D-4B9C-8F07-0C9358144CAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LatestPipelineApp", "LatestPipelineApp\LatestPipelineApp.csproj", "{13253014-CD1D-4B9C-8F07-0C9358144CAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NunitTest", "NunitTest\NunitTest.csproj", "{DB0A5155-DC42-4720-A125-7F08954AADE5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{13253014-CD1D-4B9C-8F07-0C9358144CAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13253014-CD1D-4B9C-8F07-0C9358144CAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13253014-CD1D-4B9C-8F07-0C9358144CAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB0A5155-DC42-4720-A125-7F08954AADE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB0A5155-DC42-4720-A125-7F08954AADE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB0A5155-DC42-4720-A125-7F08954AADE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB0A5155-DC42-4720-A125-7F08954AADE5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
