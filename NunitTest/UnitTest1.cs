@@ -10,7 +10,7 @@ namespace NunitTest
         [Test]
         public void Test1()
         {
-            Assert.Pass();
+            Console.WriteLine("Test Done");
         }
     }
 }
